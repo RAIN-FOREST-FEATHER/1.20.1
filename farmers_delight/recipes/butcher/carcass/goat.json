@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "butchersdelight:deadgoat"
+        }
+    ],
+    "result": {
+        "item": "butchercraft:goat_carcass",
+        "count": 1
+    }
+}

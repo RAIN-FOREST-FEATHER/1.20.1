@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "butchersdelight:deadrabbitbrown"
+        }
+    ],
+    "result": {
+        "item": "butchercraft:gold_rabbit_carcass",
+        "count": 1
+    }
+}

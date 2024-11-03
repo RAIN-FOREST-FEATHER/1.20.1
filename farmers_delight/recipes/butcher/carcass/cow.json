@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "butchersdelight:dead_cow"
+        }
+    ],
+    "result": {
+        "item": "butchercraft:cow_carcass",
+        "count": 1
+    }
+}
