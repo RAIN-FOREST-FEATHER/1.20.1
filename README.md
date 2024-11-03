@@ -1,4 +1,7 @@
 # 个人游玩，以兼容附属mod为主要目的创建的minecraft（1.20.1）数据包  
 目前主要针对mod包括：
 >机械动力（create）  
->农夫乐事（farmersdelight）
+>农夫乐事（farmersdelight）  
+>以BYG为代表的其他生物群系mod
+
+关于生物群系mod，此类mod联动物品较少，新增物品较为独立，个人为其添加想法
