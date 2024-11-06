@@ -1,19 +1,22 @@
 {
-    "type": "crafting_shaped",
+    "type": "minecraft:crafting_shaped",
     "category": "misc",
     "show_notification": false,
     "key": {
         "A":{
             "tag": "minecraft:planks"
+        },
+        "B":{
+            "item": "minecraft:book"
         }
     },
     "pattern": [
         "AAA",
-        "A A",
+        "BBB",
         "AAA"
     ],
     "result": {
-        "item": "minecraft:chest",
+        "item": "minecraft:bookshelf",
         "count": 1
     }
 
