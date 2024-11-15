@@ -3,4 +3,6 @@
 >屠宰工艺（butchercraft）  
 >屠夫乐事（butchersdelight）  
 
-*我一把屠刀只能弄到尸体，弄不到待宰*
+*我一把屠刀只能弄到尸体，弄不到待宰*  
+
+作者的chicken变成了chiken，害我找半天……
