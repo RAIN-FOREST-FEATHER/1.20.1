@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+      {
+        "item": "minecraft:water_bucket"
+      },
+      {
+        "item": "corn_delight:corn_seeds"
+      },
+      {
+        "item": "corn_delight:corn_seeds"
+      },
+      {
+        "item": "corn_delight:corn_seeds"
+      }
+    ],
+    "result": {
+      "count": 1,
+      "item": "culturaldelights:corn_dough"
+    }
+  }

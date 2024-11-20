@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cutting",
+    "ingredients": [
+        {
+            "item": "tofucraft:rice"
+        }
+    ],
+    "result":[
+        {
+            "item": "farmersdelight:straw"
+        },
+        {
+            "item":"farmersdelight:rice"
+        }
+    ],
+    "tool":{
+        "tag": "forge:tools/knives" 
+    }
+}
