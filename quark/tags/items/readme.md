@@ -1,0 +1,2 @@
+# 添加相关tag，方便多物品管理
+stone_tool_materials:为BYG的石头添加标签，使其可以用于quark添加的石头工具制作当中
