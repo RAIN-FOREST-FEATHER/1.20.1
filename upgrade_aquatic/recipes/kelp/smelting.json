@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "upgrade_aquatic:kelp_block"
+    },
+    "result": "minecraft:dried_kelp_block",
+    "category": "food",
+    "cookingtime": 1600,
+    "experience": 0.9
+}
