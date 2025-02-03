@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "biomeswevegone:dacite"
+        },
+        {
+            "item": "minecraft:grass"
+        }
+    ],
+    "result": {
+        "item": "biomeswevegone:overgrown_dacite",
+        "count": 1
+    }
+}
