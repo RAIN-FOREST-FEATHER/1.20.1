@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:scoria"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "chance": 0.01,
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:iron_nugget"
+    }
+  ]
+}
