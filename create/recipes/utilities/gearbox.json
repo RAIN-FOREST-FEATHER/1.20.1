@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "createutilities:lshaped_gearbox"
+        },
+        {
+            "item": "create:cogwheel"
+        },
+        {
+            "item": "create:cogwheel"
+        }
+    ],
+    "result": {
+        "item": "create:gearbox"
+    }
+}
