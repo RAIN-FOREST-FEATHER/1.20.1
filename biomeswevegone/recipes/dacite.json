@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "category": "building",
+    "show_notification": false,
+    "key": {
+        "A": {
+            "item": "minecraft:granite"
+        },
+        "B":{
+            "item": "minecraft:diorite"
+        }
+    },
+    "pattern": [
+        "AB ",
+        "BA ",
+        "   "
+    ],
+    "result": {
+        "item": "biomeswevegone:dacite"
+    }
+
+}
