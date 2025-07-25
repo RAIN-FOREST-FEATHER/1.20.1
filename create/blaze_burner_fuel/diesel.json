@@ -1,0 +1,7 @@
+{
+    "fluid": "createdieselgenerators:diesel",
+    "burnTime": 13,
+    "superHeat": true,
+    "amountConsumedPerTick": 1
+
+}

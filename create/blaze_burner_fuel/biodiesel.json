@@ -1,0 +1,7 @@
+{
+    "fluid": "createdieselgenerators:biodiesel",
+    "burnTime": 20,
+    "superHeat": false,
+    "amountConsumedPerTick": 1
+
+}

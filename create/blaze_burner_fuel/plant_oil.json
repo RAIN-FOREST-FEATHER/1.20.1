@@ -1,6 +1,6 @@
 {
     "fluid": "createdieselgenerators:plant_oil",
-    "burnTime": "15",
+    "burnTime": 5,
     "superHeat": false,
     "amountConsumedPerTick": 1
 
