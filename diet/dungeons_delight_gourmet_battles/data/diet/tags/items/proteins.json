@@ -1,0 +1,9 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "dungeons_delight_gourmet_battles:creeper_meat",
+            "required": false
+        }
+    ]
+}

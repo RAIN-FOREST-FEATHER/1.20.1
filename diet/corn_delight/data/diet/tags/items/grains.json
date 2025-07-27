@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+        {
+            "id": "corn_delight:corn_seeds",
+            "required": false
+        }
+    ]
+}
