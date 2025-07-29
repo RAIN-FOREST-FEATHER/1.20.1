@@ -1,0 +1,9 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "dungeonsdelight:spider_meat",
+            "required": false
+        }
+    ]
+}

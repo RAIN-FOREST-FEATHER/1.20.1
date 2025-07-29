@@ -4,6 +4,10 @@
         {
             "id": "unusual_delight:soggy_flesh",
             "required": false
+        },
+        {
+            "id": "unusual_delight:spider_leg",
+            "required": false
         }
     ]
 }

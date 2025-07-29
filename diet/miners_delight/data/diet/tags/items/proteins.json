@@ -1,0 +1,9 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "miners_delight:arthropod",
+            "required": false
+        }
+    ]
+}

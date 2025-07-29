@@ -4,6 +4,10 @@
         {
             "id": "dungeons_delight_gourmet_battles:creeper_meat",
             "required": false
+        },
+        {
+            "id": "dungeons_delight_gourmet_battles:spider_legs",
+            "required": false
         }
     ]
 }
