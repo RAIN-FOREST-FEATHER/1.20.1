@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "butchercraft:rabbit_skull_head_item"
+        }
+    ],
+    "result": {
+        "item": "minecraft:bone_meal",
+        "count": 1
+    }
+}
