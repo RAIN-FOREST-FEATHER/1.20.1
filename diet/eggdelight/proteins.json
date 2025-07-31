@@ -1,0 +1,53 @@
+{
+    "replace": true,
+    "values": [
+        {
+            "id":"eggdelight:peeled_boiled_egg",
+            "required": false
+        },
+        {
+            "id":"eggdelight:sliced_boiled_egg",
+            "required": false
+        },
+        {
+            "id": "eggdelight:scrambled_egg",
+            "required": false
+        },
+        {
+            "id": "eggdelight:bacon_omelet",
+            "required": false
+        },
+        {
+            "id": "eggdelight:beef_omelet",
+            "required": false
+        },
+        {
+            "id": "eggdelight:chicken_omelet",
+            "required": false
+        },
+        {
+            "id": "eggdelight:cod_omelet",
+            "required": false
+        },
+        {
+            "id": "eggdelight:mutton_omelet",
+            "required": false
+        },
+        {
+            "id": "eggdelight:omurice",
+            "required": false
+        },
+        {
+            "id": "eggdelight:salmon_omelet",
+            "required": false
+        },
+        {
+            "id": "eggdelight:smoked_ham_omelet",
+            "required": false
+        },
+        {
+            "id": "eggdelight:egg_pie_slice",
+            "required": false
+        }
+    ]
+}

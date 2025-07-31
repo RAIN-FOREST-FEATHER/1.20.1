@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+        {
+            "id": "eggdelight:egg_pie",
+            "required": false
+        }
+    ]
+}

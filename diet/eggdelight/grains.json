@@ -1,0 +1,13 @@
+{
+    "replace": true,
+    "values": [
+        {
+            "id": "eggdelight:omurice",
+            "required": false
+        },
+        {
+            "id": "eggdelight:egg_pie_slice",
+            "required":false
+        }
+    ]
+}
