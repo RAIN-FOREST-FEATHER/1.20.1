@@ -1,0 +1,22 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "nethersdelight:propelpearl",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:plate_of_stuffed_hoglin_snout",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:plate_of_stuffed_hoglin_ham",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:plate_of_stuffed_hoglin_roast",
+            "required": false
+        }
+    ]
+
+}

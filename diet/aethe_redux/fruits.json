@@ -1,0 +1,9 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "aether_redux:zanberry",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "minecraft:chorus_flower",
+            "required": false
+        },
+        {
+            "id": "ends_delight:chorus_succulent",
+            "required": false
+        },
+        {
+            "id": "ends_delight:roasted_dragon_steak",
+            "required": false
+        },
+        {
+            "id": "ends_delight:dragon_leg_with_sauce",
+            "required": false
+        },
+        {
+            "id": "ends_delight:steamed_dragon_egg",
+            "required": false
+        },
+        {
+            "id": "ends_delight:dragon_meat_stew",
+            "required": false
+        },
+        {
+            "id": "ends_delight:grilled_shulker",
+            "required": false
+        },
+        {
+            "id": "ends_delight:ender_gristle_soup",
+            "required": false
+        }
+    ]
+}

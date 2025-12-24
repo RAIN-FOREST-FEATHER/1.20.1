@@ -1,0 +1,9 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "aether:blue_berry",
+            "required": false
+        }
+    ]
+}

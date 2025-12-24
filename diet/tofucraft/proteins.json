@@ -1,0 +1,46 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "tofucraft:shudofu",
+            "required": false
+        },
+        {
+            "id": "tofucraft:tofustrawberry",
+            "required": false
+        },
+        {
+            "id": "tofucraft:edamame_boild",
+            "required": false
+        },
+        {
+            "id": "tofucraft:yuba",
+            "required": false
+        },
+        {
+            "id": "tofucraft:tofuhamburg_raw",
+            "required": false
+        },
+        {
+            "id": "tofucraft:raw_tofufish",
+            "required": false
+        },
+        {
+            "id": "tofucraft:apricot",
+            "required": false
+        },
+        {
+            "id": "tofucraft:natto",
+            "required": false
+        },
+        {
+            "id": "tofucraft:soymeat",
+            "required": false
+        },
+        {
+            "id": "tofucraft:pudding_soymilk",
+            "required": false
+        }
+
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "tofucraft:tofucake",
+            "required": false
+        },
+        {
+            "id": "tofucraft:soycheese_tart",
+            "required": false
+        },
+        {
+            "id": "tofucraft:zundatofucake",
+            "required": false
+        }
+    ]
+}

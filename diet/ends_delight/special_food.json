@@ -1,0 +1,9 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "ends_delight:chorus_fruit_pie",
+            "required": false
+        }
+    ]
+}

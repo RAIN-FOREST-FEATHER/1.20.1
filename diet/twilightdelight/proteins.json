@@ -1,0 +1,34 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "twilightdelight:raw_tomahawk_smeak",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:raw_insect",
+            "required": false
+        },
+
+        {
+            "id": "twilightdelight:experiment_113",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:experiment_110",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:plate_of_lily_chicken",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:plate_of_fiery_snakes",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:plate_of_meef_wellington",
+            "required": false
+        }
+    ]
+}

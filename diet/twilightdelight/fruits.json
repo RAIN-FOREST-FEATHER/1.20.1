@@ -1,0 +1,13 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "twilightforest:torchberries",
+            "required": false
+        },
+        {
+            "id": "twilightdelight:plate_of_fiery_snakes",
+            "required": false
+        }
+    ]
+}

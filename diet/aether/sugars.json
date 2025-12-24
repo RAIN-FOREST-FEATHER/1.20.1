@@ -1,0 +1,13 @@
+{
+    "replace":true,
+    "values":[
+        {
+            "id": "aether:candy_cane",
+            "required": false
+        },
+        {
+            "id": "aether:gingerbread_man",
+            "required": false
+        }
+    ]
+}
